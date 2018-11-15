@@ -1,0 +1,28 @@
+#list_top li{
+	display: inline;
+	color: white;
+	list-style-type:none;
+}
+#lable a{
+	color: white;
+	width: 100px;
+}
+#nav li{
+	list-style-type:none;
+}
+#header_top{
+	background-color: blue;
+	height: 30px;
+}
+#lable{
+	margin-top: 4px;
+	margin-left: 25%;
+	float: left;
+}
+#list_top{
+	margin-top: 4px;
+	float: left;
+}
+#header{
+	text-align: center;
+}
